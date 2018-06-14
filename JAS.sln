@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JAS", "JAS\JAS.csproj", "{2E9A4F4B-1902-4EE7-959B-90F851A4F63B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E9A4F4B-1902-4EE7-959B-90F851A4F63B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E9A4F4B-1902-4EE7-959B-90F851A4F63B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E9A4F4B-1902-4EE7-959B-90F851A4F63B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E9A4F4B-1902-4EE7-959B-90F851A4F63B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F744875-1623-4CF6-BE32-CB8E5D514530}
+	EndGlobalSection
+EndGlobal
