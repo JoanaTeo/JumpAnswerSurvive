@@ -77,6 +77,8 @@ namespace StartPage
                                 timer1.Start();
                             }
                             skok = false;
+                            naDesno = false;
+                            naLevo = false;
                         }
                         if (x.Name == "prasanje2" && flag2 == true)
                         {
@@ -95,6 +97,8 @@ namespace StartPage
                                 timer1.Start();
                             }
                             skok = false;
+                            naDesno = false;
+                            naLevo = false;
                         }
                         if (x.Name == "prasanje3" && flag3 == true)
                         {
@@ -113,6 +117,8 @@ namespace StartPage
                                 timer1.Start();
                             }
                             skok = false;
+                            naDesno = false;
+                            naLevo = false;
                         }
                         if (x.Name == "prasanje4" && flag4 == true)
                         {
@@ -131,6 +137,8 @@ namespace StartPage
                                 timer1.Start();
                             }
                             skok = false;
+                            naDesno = false;
+                            naLevo = false;
                         }
                         if (x.Name == "prasanje6" && flag5 == true)
                         {
@@ -149,6 +157,8 @@ namespace StartPage
                                 timer1.Start();
                             }
                             skok = false;
+                            naDesno = false;
+                            naLevo = false;
                         }
                         if (x.Name == "prasanje5" && flag6 == true)
                         {
@@ -167,6 +177,8 @@ namespace StartPage
                                 timer1.Start();
                             }
                             skok = false;
+                            naDesno = false;
+                            naLevo = false;
                         }
                         if (x.Name == "prasanje7" && flag7 == true)
                         {
@@ -185,6 +197,8 @@ namespace StartPage
                                 timer1.Start();
                             }
                             skok = false;
+                            naDesno = false;
+                            naLevo = false;
                         }
                     }
                 }
@@ -253,7 +267,9 @@ namespace StartPage
            
             if (aligator.Bounds.IntersectsWith(pochniNivo2.Bounds))
             {
+
                 timer1.Stop();
+                this.Close();
                 JumpAnswerSurvive2 inJumpAnswerSurvive = new JumpAnswerSurvive2();
                 inJumpAnswerSurvive.ShowDialog();
             }

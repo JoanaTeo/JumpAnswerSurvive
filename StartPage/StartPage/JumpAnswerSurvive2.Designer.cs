@@ -111,7 +111,7 @@
             // pictureBox5
             // 
             this.pictureBox5.BackColor = System.Drawing.Color.PaleGreen;
-            this.pictureBox5.Location = new System.Drawing.Point(761, 535);
+            this.pictureBox5.Location = new System.Drawing.Point(758, 544);
             this.pictureBox5.Margin = new System.Windows.Forms.Padding(4);
             this.pictureBox5.Name = "pictureBox5";
             this.pictureBox5.Size = new System.Drawing.Size(99, 18);
@@ -144,7 +144,7 @@
             // pictureBox3
             // 
             this.pictureBox3.BackColor = System.Drawing.Color.PaleGreen;
-            this.pictureBox3.Location = new System.Drawing.Point(499, 401);
+            this.pictureBox3.Location = new System.Drawing.Point(474, 412);
             this.pictureBox3.Margin = new System.Windows.Forms.Padding(4);
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(99, 18);
@@ -166,7 +166,7 @@
             // pictureBox7
             // 
             this.pictureBox7.BackColor = System.Drawing.Color.PaleGreen;
-            this.pictureBox7.Location = new System.Drawing.Point(175, 401);
+            this.pictureBox7.Location = new System.Drawing.Point(655, 433);
             this.pictureBox7.Margin = new System.Windows.Forms.Padding(4);
             this.pictureBox7.Name = "pictureBox7";
             this.pictureBox7.Size = new System.Drawing.Size(99, 18);
@@ -213,7 +213,7 @@
             this.aligator.BackgroundImage = global::StartPage.Properties.Resources.alligator_cartoon;
             this.aligator.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
             this.aligator.Image = global::StartPage.Properties.Resources.alligator_cartoon;
-            this.aligator.Location = new System.Drawing.Point(785, 484);
+            this.aligator.Location = new System.Drawing.Point(775, 484);
             this.aligator.Margin = new System.Windows.Forms.Padding(4);
             this.aligator.Name = "aligator";
             this.aligator.Size = new System.Drawing.Size(52, 52);
@@ -285,7 +285,7 @@
             // 
             // prasanje7
             // 
-            this.prasanje7.Location = new System.Drawing.Point(175, 393);
+            this.prasanje7.Location = new System.Drawing.Point(655, 421);
             this.prasanje7.Margin = new System.Windows.Forms.Padding(4);
             this.prasanje7.Name = "prasanje7";
             this.prasanje7.Size = new System.Drawing.Size(97, 12);
@@ -297,7 +297,7 @@
             // 
             // prasanje3
             // 
-            this.prasanje3.Location = new System.Drawing.Point(501, 381);
+            this.prasanje3.Location = new System.Drawing.Point(476, 402);
             this.prasanje3.Margin = new System.Windows.Forms.Padding(4);
             this.prasanje3.Name = "prasanje3";
             this.prasanje3.Size = new System.Drawing.Size(97, 12);
@@ -380,7 +380,7 @@
             // p9
             // 
             this.p9.BackColor = System.Drawing.Color.PaleGreen;
-            this.p9.Location = new System.Drawing.Point(175, 412);
+            this.p9.Location = new System.Drawing.Point(655, 440);
             this.p9.Name = "p9";
             this.p9.Size = new System.Drawing.Size(13, 72);
             this.p9.TabIndex = 44;
@@ -390,7 +390,7 @@
             // p10
             // 
             this.p10.BackColor = System.Drawing.Color.PaleGreen;
-            this.p10.Location = new System.Drawing.Point(261, 412);
+            this.p10.Location = new System.Drawing.Point(741, 440);
             this.p10.Name = "p10";
             this.p10.Size = new System.Drawing.Size(13, 72);
             this.p10.TabIndex = 45;
@@ -400,7 +400,7 @@
             // p3
             // 
             this.p3.BackColor = System.Drawing.Color.PaleGreen;
-            this.p3.Location = new System.Drawing.Point(499, 412);
+            this.p3.Location = new System.Drawing.Point(474, 421);
             this.p3.Name = "p3";
             this.p3.Size = new System.Drawing.Size(13, 72);
             this.p3.TabIndex = 46;
@@ -410,7 +410,7 @@
             // p4
             // 
             this.p4.BackColor = System.Drawing.Color.PaleGreen;
-            this.p4.Location = new System.Drawing.Point(585, 412);
+            this.p4.Location = new System.Drawing.Point(560, 421);
             this.p4.Name = "p4";
             this.p4.Size = new System.Drawing.Size(13, 72);
             this.p4.TabIndex = 47;
@@ -514,7 +514,7 @@
             // pictureBox12
             // 
             this.pictureBox12.BackColor = System.Drawing.Color.PaleGreen;
-            this.pictureBox12.Location = new System.Drawing.Point(652, 435);
+            this.pictureBox12.Location = new System.Drawing.Point(173, 356);
             this.pictureBox12.Margin = new System.Windows.Forms.Padding(4);
             this.pictureBox12.Name = "pictureBox12";
             this.pictureBox12.Size = new System.Drawing.Size(99, 18);
